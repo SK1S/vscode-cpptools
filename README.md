@@ -1,5 +1,5 @@
     # C/C++ for Visual Studio Code
-
+# C/C++ for Visual Studio Code
 #### [Repository](https://github.com/microsoft/vscode-cpptools)&nbsp;&nbsp;|&nbsp;&nbsp;[Issues](https://github.com/microsoft/vscode-cpptools/issues)&nbsp;&nbsp;|&nbsp;&nbsp;[Documentation](https://code.visualstudio.com/docs/languages/cpp)&nbsp;&nbsp;|&nbsp;&nbsp;[Code Samples](https://github.com/microsoft/vscode-cpptools/tree/main/Code%20Samples)
 
 [![Badge](https://aka.ms/vsls-badge)](https://aka.ms/vsls)
